@@ -1,6 +1,4 @@
-#readme
-
-Each files contains algorithms for different parameter estimation implementation,
+# Algorithms described in methodology sections:
 
 For genetic algorithm: run 'GA_fungal.m'
 
