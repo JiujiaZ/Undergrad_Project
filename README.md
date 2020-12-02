@@ -1,5 +1,5 @@
 # MasterThesis
-## Title: Parameter Optimisation for Invasive Aspergillosis in silico Model
+## Title: Parameter Optimisation for Invasive Aspergillosis *in silico* Model
 1. [Project Introduction](#intro)
 2. [Thesis](#thesis)
 3. [Presentation Slides](#ps)
@@ -8,9 +8,9 @@
 <a name="intro"></a>
 ## 1. Project Introduction
 
-With the advancement in computation, mathematical modelling and simulation has became an indespensible tool in understanding complicated biological process. However, an *in silico* model without calibration does not have explanatory or prediction power for the phenomenum that we are modelling. Therefore, **parameter estimation** is a crucial step in order to build a physically meaningful model.
+With the advancement in computation, mathematical modelling and simulation have become an indespensible tool in understanding complicated biological process. However, an *in silico* model without careful calibration does not have explanatory or predictive power for the phenomenon that we are modelling. Therefore, **parameter estimation** is a crucial step in order to build a physically meaningful model.
 
-In this project, I reported the chanllenges of parameter estimation in computational immunology, where the amount experimental data are limited. I have also illustrated classical parameter estimation techniques **"Genetic Algorithm"** and **"Gauss-Newton iteration"** are not compatible with an state-of-the-art *in silico* model that models respritory infection mechanism.
+In this project, I reported the challenges of parameter estimation in computational immunology, where the amount experimental data is limited. I have also illustrated that classical parameter estimation techniques **"Genetic Algorithm"** and **"Gauss-Newton iteration"** are not compatible with a state-of-the-art *in silico* model which represents the innate immune response under respritory infection.
 
 <a name="thesis"></a>
 ## 2. Thesis
