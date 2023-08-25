@@ -1,4 +1,4 @@
-# MasterThesis
+# Project in partial fulfilment of the requirements for the award of Integrated Master of Engineering in Biomedical Engineering
 ## Title: Parameter Optimisation for Invasive Aspergillosis *in silico* Model
 1. [Project Introduction](#intro)
 2. [Thesis](#thesis)
